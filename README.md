@@ -5,7 +5,7 @@ An end-to-end business intelligence project transforming raw global sales data i
 
 **The Tech Stack & Pipeline**
 
-Data Manipulation (Python): Cleaned the raw data and performed EDA. Crucial fix: Audited and corrected a faulty data-filtering tolerance for Boxes_Shipped that was inadvertently dropping valid, high-density order records from the pipeline.
+Data Manipulation (Python): Cleaned the raw data containing 200k records and performed EDA. Crucial fix: Audited and corrected a faulty data-filtering tolerance for Boxes_Shipped that was inadvertently dropping valid, high-density order records from the pipeline.
 
 Semantic Modeling (Power BI): Designed a robust Star Schema (Fact and Dimension tables) to replace flat-file reporting.
 
