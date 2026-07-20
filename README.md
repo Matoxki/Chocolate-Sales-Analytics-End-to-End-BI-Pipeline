@@ -17,7 +17,9 @@ UI/UX Design: Applied strategic "data-ink" ratios, transparent scatter plot dens
 **Key Business Insights**
 
 Channel Strategy: While Retail drives raw order volume, Wholesale is the true value driver, yielding a 37% higher Average Order Value (€639 vs. €466).
+
 Discount Inefficiency: Statistical checks proved a weak correlation (0.17) between discount percentages and actual boxes shipped, indicating margin is being given away without driving additional volume.
+
 Geographic Risk: 77% of all global revenue is concentrated in just two markets (Australia and Brazil).
 
 ![Dashboard Screenshot](images/Chocolate_Sale_Dashboard.png)
