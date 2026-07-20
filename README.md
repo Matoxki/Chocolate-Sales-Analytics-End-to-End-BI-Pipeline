@@ -20,4 +20,6 @@ Channel Strategy: While Retail drives raw order volume, Wholesale is the true va
 Discount Inefficiency: Statistical checks proved a weak correlation (0.17) between discount percentages and actual boxes shipped, indicating margin is being given away without driving additional volume.
 Geographic Risk: 77% of all global revenue is concentrated in just two markets (Australia and Brazil).
 
-![Dashboard Screenshot](images/Chocolate_Sale_Dashboard)
+![Dashboard Screenshot](images/Chocolate_Sale_Dashboard.png)
+![Dashboard Screenshot](images/Star_Schema_Model.png)
+![Dashboard Screenshot](images/Python_Cleaning.png)
